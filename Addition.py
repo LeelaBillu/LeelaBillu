@@ -1,5 +1,5 @@
-a=int(input("enter a :"))
-b=int(input("enter b :"))
+a=int(input("enter a value:"))
+b=int(input("enter b value:"))
 
 
-print(a+b)
+print(f"Addition of {a} and  {b} is : {a+b}")
